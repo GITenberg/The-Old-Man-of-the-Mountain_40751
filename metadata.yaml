@@ -24,6 +24,8 @@ creator:
     - http://en.wikipedia.org/wiki/Herbert_Strang
     - http://www.gutenberg.org/ebooks/author/39124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40751#The-Old-Man-of-the-Mountain
 gutenberg_issued: '2012-09-13'
 gutenberg_type: Text
 identifiers:
