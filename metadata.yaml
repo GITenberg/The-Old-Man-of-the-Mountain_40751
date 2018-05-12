@@ -1,0 +1,40 @@
+_repo: The-Old-Man-of-the-Mountain_40751
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Bull, René
+    alias: Bull, Rene
+    deathdate: 1942
+    gutenberg_agent_id: '40809'
+    url: http://www.gutenberg.org/2009/agents/40809
+  - agent_name: Cuneo, Cyrus
+    birthdate: 1879
+    deathdate: 1916
+    gutenberg_agent_id: '9717'
+    url: http://www.gutenberg.org/2009/agents/9717
+covers:
+- cover_type: archival
+  image_path: 40751-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Herbert_Strang
+    - http://www.gutenberg.org/ebooks/author/39124
+description: ''
+gutenberg_issued: '2012-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- India -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+title: The Old Man of the Mountain
+url: http://www.gutenberg.org/ebooks/40751
